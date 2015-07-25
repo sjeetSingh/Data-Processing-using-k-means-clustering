@@ -11,7 +11,7 @@ ui.R is a User-Interface script which controls the layout and apperance of the a
 server.R is a server script which stores the main logic of the app. 
 
 ###**titanic.csv**
-This is the main input, data file.
+A CSV file, is the input file conataining the data to be processed.
 
 ####**Running this app**
 The app can be executed by writing the command: `runApp("my_app")` on the R console where,
