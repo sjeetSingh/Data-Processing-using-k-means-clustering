@@ -18,5 +18,9 @@ The app can be executed by writing the command: `runApp("my_app")` on the R cons
 
 `my_app` is the directory where the files- ui.R and server.R are stored.
 
+**Screens**
+https://cloud.githubusercontent.com/assets/10068920/8890946/68a57a84-32d9-11e5-88ca-a26a24f7754f.png
+
+
 
 
