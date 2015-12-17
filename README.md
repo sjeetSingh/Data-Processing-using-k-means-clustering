@@ -1,8 +1,6 @@
-# kmeansClustering
+## Data Processing using kmeans Clustering
 
-In this illustration, k-means Clustering is implemented in R language. I've build the interface in R using Shiny. [Shiny](http://shiny.rstudio.com/tutorial/lesson1/) is an R package used to build web applications. 
-
- 
+For this project, I have used R to implement k-means clustering. The web interface is build in R using Shiny. [Shiny](http://shiny.rstudio.com/tutorial/lesson1/)
 
 ###**ui.R**
 ui.R is a User-Interface script which controls the layout and apperance of the app. 
